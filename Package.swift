@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let releaseVersion = "0.12.2"
+let releaseVersion = "0.12.0"
 let releaseChecksum = ""
 let url = "https://github.com/matrix-org/dendrite-swift/releases/download/\(releaseVersion)/DendriteP2PGobind.xcframework.zip"
 
